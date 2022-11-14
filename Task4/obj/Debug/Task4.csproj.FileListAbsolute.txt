@@ -1,0 +1,8 @@
+D:\OOP\Lab3\Task4\bin\Debug\Task4.exe.config
+D:\OOP\Lab3\Task4\bin\Debug\Task4.exe
+D:\OOP\Lab3\Task4\bin\Debug\Task4.pdb
+D:\OOP\Lab3\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+D:\OOP\Lab3\Task4\obj\Debug\Task4.csproj.SuggestedBindingRedirects.cache
+D:\OOP\Lab3\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\OOP\Lab3\Task4\obj\Debug\Task4.exe
+D:\OOP\Lab3\Task4\obj\Debug\Task4.pdb

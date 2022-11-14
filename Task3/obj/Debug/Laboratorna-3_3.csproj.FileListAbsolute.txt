@@ -1,0 +1,6 @@
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-3\Laboratorna-3\Task3\bin\Debug\Task3.exe.config
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-3\Laboratorna-3\Task3\bin\Debug\Task3.exe
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-3\Laboratorna-3\Task3\bin\Debug\Task3.pdb
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-3\Laboratorna-3\Task3\obj\Debug\Laboratorna-3_3.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-3\Laboratorna-3\Task3\obj\Debug\Task3.exe
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-3\Laboratorna-3\Task3\obj\Debug\Task3.pdb

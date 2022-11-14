@@ -1,0 +1,8 @@
+D:\OOP\Lab3\Task1\bin\Debug\Task1.exe.config
+D:\OOP\Lab3\Task1\bin\Debug\Task1.exe
+D:\OOP\Lab3\Task1\bin\Debug\Task1.pdb
+D:\OOP\Lab3\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\OOP\Lab3\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+D:\OOP\Lab3\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\OOP\Lab3\Task1\obj\Debug\Task1.exe
+D:\OOP\Lab3\Task1\obj\Debug\Task1.pdb
